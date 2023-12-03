@@ -1,0 +1,23 @@
+*# Roteiro de Atividade:*
+1. Ter uma VM instalada com Ubuntu Ou Windows e o python instalado.
+2. Acessar: https://github.com/bleachbit/bleachbit
+3. Clicar no botao verde CODE e baixar o arquivo ZIP
+4. Extrair o arquivo no local de Download
+5. Entrar na pasta bleachbit-master
+6. Clicar com o botao direito e abrir o terminal
+7. Digitar:
+make -C po local # build translations
+python3 bleachbit.py
+8. Clicar em menu obs: é o quarto botão da direita para a esquerda tendo como rreferência o botão de fechar: x
+9. clicar em prefências
+10. Mudar o tema.
+11. Mudar o idioma
+12. Fechar a janela
+13. Selecionar a cache e os cookies do navegador selecionado e apagar.
+14 Fechar a aplicação
+
+Link do termo de consentimento:
+https://docs.google.com/document/d/12W6wOKVj2hemnqLJXiNU9JuKha58CZXC_IMR5bhOo-s/edit?usp=sharing
+
+Link do formulário para teste de usabilidade:
+https://docs.google.com/forms/d/e/1FAIpQLScsLeRZ6kaUlTwX6xtQhuUN7XNDCUC8SUaRdibtv3qJ2pAd6g/viewform?usp=pp_url

@@ -2,6 +2,7 @@
 # Foi criar um arquivo .py dentro da pasta de testes do próprio software
 # O comando para rodar os testes a seguir é:
 # python3 -m unittest tests.Testeestudo1.TestAptAutoremove TestAptClean TestChromeAutoFill TestChromeDatabases TestCompiledSearch TestSplashThread
+# link teste sendo executado youtube: https://youtu.be/AC_NuGI3iHQ
 # Abaixo segue o resultado dos testes e quais foram executados:
 
 ############################## RESULTADO DOS TESTES   #############################################################

@@ -1,6 +1,6 @@
 # Feedbacks que basearam as alterações
 TP-4  
-- Vi que tiveram problemas na execução dos testes. Poderiam ter feito uma classe simples para a atividade.
+- Vi que tiveram problemas na execução dos testes. Poderiam ter feito uma classe simples para a atividade.  
   Alterações não foram tão possíveis mas explicadas no arquivo README do TP-4 corrigido  
 
 TP-5  

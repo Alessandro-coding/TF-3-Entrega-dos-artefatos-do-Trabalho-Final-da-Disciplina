@@ -19,3 +19,5 @@ Os testers Igo Florentino e Francisco Alessandro não rodaram no Visual Studio C
 Foram utilizados diversas formas de criar os testes unitários, já que se mostrou uma tarefa bastante complicada. A tarefa se mostrou bastante complexa já que mexe com um software que mexe com comandos no sistema operacional e essa área não é comum para nenhum dos membros do grupo. Além disso, as classes estão interligadas com outros arquivos do software, o que acabou por tornar tudo mais confuso.  
 
 Foi utilizado o ChatGPT para criar códigos de testes de unidades. Estes códigos estão anexados aqui no repositório.  
+
+A utilização de uma classe simples foi feita, como sugerido pelo professor, em alguns testes, como: 5testes-chatgpt-classe-compiledsearch.py . Entretanto, ainda se mostrou bastante complexa pelo comunicação entre os arquivos, que utilizam outros arquivos como bibliotecas e classes.

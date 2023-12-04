@@ -1,8 +1,8 @@
 # Feedbacks que basearam as alterações
 TP-1  
-- historico de versoes  
-- metodo do teste  
-- bibliografia de fora do padrao  
+- Histórico de versões estão todos iguais, tem que diferenciar.  
+- Escopo e Estratégia de testes mais detalhada.  
+- Bibliografia fora do padrão.  
 
 TP-4  
 - Vi que tiveram problemas na execução dos testes. Poderiam ter feito uma classe simples para a atividade.  

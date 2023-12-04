@@ -9,4 +9,4 @@ Rhuan Mateus Matias Filgueira - 1605351
   
 Software open source em análise: BleachBit  
 
-Esse repositório do Github representa os testes automatizados do software BleachBit
+Esse repositório do Github representa as evidências das atividades V&V realizados sobre o software BleachBit.

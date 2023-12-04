@@ -2,7 +2,10 @@
 TP-1  
 - Histórico de versões estão todos iguais, tem que diferenciar.  
 - Escopo e Estratégia de testes mais detalhada.  
-- Bibliografia fora do padrão.  
+- Bibliografia fora do padrão.
+
+TP-2  
+- Não foram feitas observações  
 
 TP-4  
 - Vi que tiveram problemas na execução dos testes. Poderiam ter feito uma classe simples para a atividade.  

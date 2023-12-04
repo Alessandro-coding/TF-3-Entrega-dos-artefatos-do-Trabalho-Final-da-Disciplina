@@ -1,4 +1,9 @@
 # Feedbacks que basearam as alterações
+TP-1  
+- historico de versoes  
+- metodo do teste  
+- bibliografia de fora do padrao  
+
 TP-4  
 - Vi que tiveram problemas na execução dos testes. Poderiam ter feito uma classe simples para a atividade.  
   As alterações não foram muitas possíveis mas explicadas no final do arquivo README do TP-4 corrigido.  

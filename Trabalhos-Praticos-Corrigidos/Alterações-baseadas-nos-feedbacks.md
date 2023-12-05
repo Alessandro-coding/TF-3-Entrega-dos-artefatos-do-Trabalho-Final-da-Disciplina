@@ -5,7 +5,12 @@ TP-1
 - Bibliografia fora do padrão.
 
 TP-2  
-- Não foram feitas observações  
+- Não foram feitas observações
+
+TP-3  
+- Formatação estranha (um caso teste colado no outro).  
+- Poucos casos teste.  
+- Alguns casos teste faltam detalhes e variações.. Exemplo: histórico de navegação, poderia ser com vazio e muitos registros. E sobre os resultados esperados para exclusão está muito vago a entrada e o resultado esperado.  
 
 TP-4  
 - Vi que tiveram problemas na execução dos testes. Poderiam ter feito uma classe simples para a atividade.  
